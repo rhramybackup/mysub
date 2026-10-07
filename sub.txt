@@ -29,3 +29,4 @@ vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?secu
 vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Config%20%2303149
 vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&type=ws#Config%20%2303554
 vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@188.114.97.6:8880?path=/&security=none&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#Config%20%2303685
+vless://160ca353-676d-4b7f-a041-0289e388b865@172.66.140.62:8880?security=none&sni=skk.moe&type=ws&host=proud-cloud-7bdd.208-a52.workers.dev#Config%20%2303946
