@@ -3,3 +3,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5N0tlUlR6bUgwdlhUMmtw@c3.nastuh.link:443#Con
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTkwzbXhkZlpLaVBLaXpM@20.223.236.165:443#Config%20%2300130
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@194.87.68.140:10771#Config%20%2300256
 trojan://Trojan@82164024@92.118.150.146:443?sni=pl.tronsg.com#Config%20%2300374
+vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:8880?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/YPMvUeqm6JGQPL7NGXDTWZ0M?ed=2560#Config%20%2300708
