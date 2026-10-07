@@ -28,3 +28,4 @@ vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?type=ws&host=col
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#Config%20%2303011
 vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Config%20%2303149
 vless://ef770523-8eb5-403f-9e95-06b328719c87@lucky-sunset-d12e.201-98c.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&type=ws#Config%20%2303554
+vless://fe467f51-b2cc-4b16-b50b-a78865ed3dd9@188.114.97.6:8880?path=/&security=none&encryption=none&host=crimson-wind-71bc.19-5fd.workers.dev&type=ws#Config%20%2303685
